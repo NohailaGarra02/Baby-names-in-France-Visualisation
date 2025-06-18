@@ -64,14 +64,17 @@ Données anonymisées et agrégées par sexe, prénom, année, et département.
 # Comment exécuter ce projet
 1. Cloner le dépôt
 
-  git clone https://github.com/NohailaGarra02/Baby-names-in-France-Visualisation.git
-  cd "Baby-names-in-France-Visualisation"
+    git clone https://github.com/NohailaGarra02/Baby-names-in-France-Visualisation.git
+    
+    cd "Baby-names-in-France-Visualisation"
   
 2. Créer un environnement virtuel
 
   python -m venv venv
+  
   #Windows :
   .\venv\Scripts\activate
+  
   #macOS/Linux :
   source venv/bin/activate
   
@@ -86,6 +89,7 @@ Données anonymisées et agrégées par sexe, prénom, année, et département.
 __Ensuite, ouvre le fichier baby_names.ipynb pour explorer les visualisations interactives.__
 
 # Prérequis
+
 Python 3.11 recommandé
 
 Les bibliothèques nécessaires sont listées dans le fichier requirements.txt (Altair, Pandas, GeoPandas, Matplotlib...).
