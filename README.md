@@ -12,54 +12,55 @@ Membres de l'équipe:
 Ce projet propose une analyse exploratoire et interactive des prénoms donnés en France de 1900 à 2020, à partir des données ouvertes de l’INSEE. Il combine des visualisations temporelles, géographiques et genrées, le tout réalisé en Python via Pandas, Altair, GeoPandas et ipywidgets.
 
 **Contenu du notebook**
-Le notebook est structuré en plusieurs phases :
+
+- Le notebook est structuré en plusieurs phases :
 
 
  **Phase 1 : Évolution temporelle**
 
-Identification des prénoms les plus donnés (ex : Marie, Jean, Pierre...).
+- Identification des prénoms les plus donnés (ex : Marie, Jean, Pierre...).
 
-Visualisation de leur popularité au fil des décennies.
+- Visualisation de leur popularité au fil des décennies.
 
  **Phase 2 : Répartition géographique**
 
-Cartographie des prénoms les plus attribués par département.
+- Cartographie des prénoms les plus attribués par département.
 
-Mise en évidence des spécificités régionales.
+- Mise en évidence des spécificités régionales.
 
  **Phase 2 bis : Focus départemental interactif**
 
-Sélection d’un département via un menu déroulant.
+- Sélection d’un département via un menu déroulant.
 
-Affichage dynamique du top 5 local des prénoms.
+- Affichage dynamique du top 5 local des prénoms.
 
  **Phase 3 : Analyse par sexe**
 
-Comparaison des prénoms les plus donnés aux filles et garçons.
+- Comparaison des prénoms les plus donnés aux filles et garçons.
 
-Visualisations par barres et par courbes, avec distinction graphique du sexe.
+- Visualisations par barres et par courbes, avec distinction graphique du sexe.
 
  **Technologies utilisées**
 
-Python 3.11
+- Python 3.11
 
-Pandas pour la manipulation des données
+- Pandas pour la manipulation des données
 
-Altair pour les visualisations interactives
+- Altair pour les visualisations interactives
 
-GeoPandas pour la carte des départements
+- GeoPandas pour la carte des départements
 
-Matplotlib / Seaborn pour les graphiques classiques
+- Matplotlib / Seaborn pour les graphiques classiques
 
-ipywidgets pour l’interactivité (menus déroulants)
+- ipywidgets pour l’interactivité (menus déroulants)
 
 **Données**
 
-Source : INSEE - Fichiers des prénoms
+- Source : INSEE - Fichiers des prénoms
 
-Format : CSV (dpt2020.csv)
+- Format : CSV (dpt2020.csv)
 
-Données anonymisées et agrégées par sexe, prénom, année, et département.
+- Données anonymisées et agrégées par sexe, prénom, année, et département.
 
 # Comment exécuter ce projet
 1. Cloner le dépôt
