@@ -39,6 +39,7 @@ Matplotlib / Seaborn pour les graphiques classiques
 ipywidgets pour l’interactivité (menus déroulants)
 
 ** Données**
+
 Source : INSEE - Fichiers des prénoms
 Format : CSV (dpt2020.csv)
 Données anonymisées et agrégées par sexe, prénom, année, et département.
