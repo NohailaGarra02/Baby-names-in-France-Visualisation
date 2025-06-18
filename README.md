@@ -1,5 +1,13 @@
 # Baby-names-in-France-Visualisation
 
+Membres de l'équipe:
+
+- Membre 1: **Ouhiba Aymen**  
+- Membre 2: **Garra Nohalia**  
+- Membre 3: **Vu Julien**
+- Membre 4: **Wande Wula Alfred**
+- Membre 5: **Mbathe Mekontchou Paul**
+
 # Analyse des Prénoms en France (1900–2020)
 Ce projet propose une analyse exploratoire et interactive des prénoms donnés en France de 1900 à 2020, à partir des données ouvertes de l’INSEE. Il combine des visualisations temporelles, géographiques et genrées, le tout réalisé en Python via Pandas, Altair, GeoPandas et ipywidgets.
 
