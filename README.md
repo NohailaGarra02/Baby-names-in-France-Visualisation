@@ -3,7 +3,7 @@
 Membres de l'équipe:
 
 - Membre 1: **Ouhiba Aymen**  
-- Membre 2: **Garra Nohalia**  
+- Membre 2: **Garra Nohaila**  
 - Membre 3: **Vu Julien**
 - Membre 4: **Wande Wula Alfred**
 - Membre 5: **Mbathe Mekontchou Paul**
